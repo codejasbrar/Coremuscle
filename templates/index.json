@@ -1,0 +1,603 @@
+{
+  "sections": {
+    "77475ed5-4e9e-434e-910a-6f662b150914": {
+      "type": "slideshow",
+      "blocks": {
+        "template--17047201841432__77475ed5-4e9e-434e-910a-6f662b150914-16698131534a2534b5-0": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--17047201841432__77475ed5-4e9e-434e-910a-6f662b150914-16698131534a2534b5-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/core_header_1.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "5b90e0d7-eb1a-492b-be75-9817f777695d": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--17047201841432__77475ed5-4e9e-434e-910a-6f662b150914-16698131534a2534b5-0",
+        "template--17047201841432__77475ed5-4e9e-434e-910a-6f662b150914-16698131534a2534b5-1",
+        "5b90e0d7-eb1a-492b-be75-9817f777695d"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": ""
+      }
+    },
+    "25341970-076f-4bca-83e7-7c6e20bd42c5": {
+      "type": "slideshow",
+      "blocks": {
+        "e97191ea-0fd1-4749-8da3-a0c240801f53": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_0007.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--17047201841432__25341970-076f-4bca-83e7-7c6e20bd42c5-1673271103a90a3ef9-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--17047201841432__25341970-076f-4bca-83e7-7c6e20bd42c5-1673271103a90a3ef9-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_6608.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "8895c2b8-9ea7-4949-8841-2633c3b54c69": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_6653.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "cef20610-04e3-4ffd-ba64-6f5f44e7ccf7": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "e97191ea-0fd1-4749-8da3-a0c240801f53",
+        "template--17047201841432__25341970-076f-4bca-83e7-7c6e20bd42c5-1673271103a90a3ef9-0",
+        "template--17047201841432__25341970-076f-4bca-83e7-7c6e20bd42c5-1673271103a90a3ef9-1",
+        "8895c2b8-9ea7-4949-8841-2633c3b54c69",
+        "cef20610-04e3-4ffd-ba64-6f5f44e7ccf7"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "large",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "665e43ac-87aa-42d0-a533-0c41b222dbcc": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "template--17047201841432__665e43ac-87aa-42d0-a533-0c41b222dbcc-167309171768391dc8-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "font_color": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--17047201841432__665e43ac-87aa-42d0-a533-0c41b222dbcc-167309171768391dc8-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "sub_font_color": "#334fb4",
+            "text_style": "body"
+          }
+        },
+        "template--17047201841432__665e43ac-87aa-42d0-a533-0c41b222dbcc-167309171768391dc8-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop now",
+            "button_font_color": "#ffffff",
+            "btn_bg_color": "#d8cda8",
+            "button_link_1": "https:\/\/coremusclenutrition.myshopify.com\/products\/saga-rip-core-fat-burner",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17047201841432__665e43ac-87aa-42d0-a533-0c41b222dbcc-167309171768391dc8-0",
+        "template--17047201841432__665e43ac-87aa-42d0-a533-0c41b222dbcc-167309171768391dc8-1",
+        "template--17047201841432__665e43ac-87aa-42d0-a533-0c41b222dbcc-167309171768391dc8-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/D9A7650-New2.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "PRODUCTS",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 6,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "inverse",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "3",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>BECOME YOUR BEST<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "148df685-ad32-4d14-a1f1-dda0906b9fa4": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "template--17047201841432__148df685-ad32-4d14-a1f1-dda0906b9fa4-1669631536d6374a86-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Body Building course",
+            "font_color": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--17047201841432__148df685-ad32-4d14-a1f1-dda0906b9fa4-1669631536d6374a86-1": {
+          "type": "text",
+          "settings": {
+            "text": "Unlock your true potential",
+            "sub_font_color": "",
+            "text_style": "subtitle"
+          }
+        },
+        "template--17047201841432__148df685-ad32-4d14-a1f1-dda0906b9fa4-1669631536d6374a86-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Start the course",
+            "button_font_color": "",
+            "btn_bg_color": "",
+            "button_link_1": "shopify:\/\/collections",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17047201841432__148df685-ad32-4d14-a1f1-dda0906b9fa4-1669631536d6374a86-0",
+        "template--17047201841432__148df685-ad32-4d14-a1f1-dda0906b9fa4-1669631536d6374a86-1",
+        "template--17047201841432__148df685-ad32-4d14-a1f1-dda0906b9fa4-1669631536d6374a86-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1.webp",
+        "image_overlay_opacity": 40,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Unleash Your Inner Self",
+            "font_color": "",
+            "heading_size": "h0"
+          }
+        },
+        "text": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "sub_font_color": "",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_font_color": "",
+            "btn_bg_color": "",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/2.webp",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "3234f31a-8851-4749-b558-fb40339f0c76": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "template--17047201841432__3234f31a-8851-4749-b558-fb40339f0c76-166981807258541b91-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--17047201841432__3234f31a-8851-4749-b558-fb40339f0c76-166981807258541b91-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h2"
+          }
+        },
+        "template--17047201841432__3234f31a-8851-4749-b558-fb40339f0c76-166981807258541b91-2": {
+          "type": "price",
+          "settings": {}
+        },
+        "template--17047201841432__3234f31a-8851-4749-b558-fb40339f0c76-166981807258541b91-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--17047201841432__3234f31a-8851-4749-b558-fb40339f0c76-166981807258541b91-4": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "template--17047201841432__3234f31a-8851-4749-b558-fb40339f0c76-166981807258541b91-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--17047201841432__3234f31a-8851-4749-b558-fb40339f0c76-166981807258541b91-6": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--17047201841432__3234f31a-8851-4749-b558-fb40339f0c76-166981807258541b91-0",
+        "template--17047201841432__3234f31a-8851-4749-b558-fb40339f0c76-166981807258541b91-1",
+        "template--17047201841432__3234f31a-8851-4749-b558-fb40339f0c76-166981807258541b91-2",
+        "template--17047201841432__3234f31a-8851-4749-b558-fb40339f0c76-166981807258541b91-3",
+        "template--17047201841432__3234f31a-8851-4749-b558-fb40339f0c76-166981807258541b91-4",
+        "template--17047201841432__3234f31a-8851-4749-b558-fb40339f0c76-166981807258541b91-5",
+        "template--17047201841432__3234f31a-8851-4749-b558-fb40339f0c76-166981807258541b91-6"
+      ],
+      "settings": {
+        "product": "raw-whey",
+        "color_scheme": "accent-1",
+        "secondary_background": false,
+        "media_position": "left",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collage": {
+      "type": "collage",
+      "disabled": true,
+      "blocks": {
+        "collection-0": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "bcaa"
+          }
+        },
+        "product": {
+          "type": "product",
+          "settings": {
+            "product": "saga-rip-core-fat-burner",
+            "second_image": true
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "whey-protein"
+          }
+        }
+      },
+      "block_order": [
+        "collection-0",
+        "product",
+        "collection-1"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "accent-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "video": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "accent-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4d01b2d6-2cf6-4136-9402-25ef6681686a": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17047201841432__4d01b2d6-2cf6-4136-9402-25ef6681686a-1673690329985bafc1-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--17047201841432__4d01b2d6-2cf6-4136-9402-25ef6681686a-1673690329985bafc1-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--17047201841432__4d01b2d6-2cf6-4136-9402-25ef6681686a-1673690329985bafc1-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "3ac293be-0c80-4bda-804b-552aa4e08d2b": {
+          "type": "form",
+          "settings": {
+            "heading": "Enquiry for Trade Prices",
+            "heading_size": "h1",
+            "color_scheme": "transparent",
+            "padding_top": 0,
+            "padding_bottom": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--17047201841432__4d01b2d6-2cf6-4136-9402-25ef6681686a-1673690329985bafc1-0",
+        "template--17047201841432__4d01b2d6-2cf6-4136-9402-25ef6681686a-1673690329985bafc1-1",
+        "template--17047201841432__4d01b2d6-2cf6-4136-9402-25ef6681686a-1673690329985bafc1-2",
+        "3ac293be-0c80-4bda-804b-552aa4e08d2b"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Choc-Swirl-New.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "77475ed5-4e9e-434e-910a-6f662b150914",
+    "25341970-076f-4bca-83e7-7c6e20bd42c5",
+    "665e43ac-87aa-42d0-a533-0c41b222dbcc",
+    "featured_collection",
+    "rich_text",
+    "148df685-ad32-4d14-a1f1-dda0906b9fa4",
+    "image_banner",
+    "3234f31a-8851-4749-b558-fb40339f0c76",
+    "collage",
+    "video",
+    "4d01b2d6-2cf6-4136-9402-25ef6681686a"
+  ]
+}

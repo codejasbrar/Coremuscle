@@ -1,0 +1,31 @@
+<p>{{section.settings.text_id}}</p>
+
+<img src="{{ section.settings.image_id | image_url: 'large' }}" alt=""/>
+
+{% schema %}
+  {
+    "name": "Image Text Section",
+    "settings": [
+      	{
+      "type": "text",
+      "id": "text_id",
+      "label": "Section Text"
+    },	{
+      "type": "image_picker",
+      "id": "image_id",
+      "label": "Select Image"
+    }
+    ],
+      "presets": [
+    {
+      "name": "Image Text Section"
+    }
+  ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}
